@@ -1,0 +1,22 @@
+{
+  "name": "hoyoungsin-resume",
+  "version": "1.0.0",
+  "description": "json resume",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hoyoungsin/npm-resume.git"
+  },
+  "author": "hoyoung sin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hoyoungsin/npm-resume/issues"
+  },
+  "homepage": "https://github.com/hoyoungsin/npm-resume#readme",
+  "bin": {
+    "resume-me": "./index.js"
+  }
+}
